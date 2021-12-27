@@ -7,4 +7,5 @@ docker-compose up -d
 ```
 
 DynamoDB: http://localhost:8000
+
 DynamoDB GUI Admin port: http://localhost:8001
